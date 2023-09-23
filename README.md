@@ -1,6 +1,6 @@
 # Facebook Clone
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](https://github.com/niladri-1/Facebook-clone/blob/main/images/Demo.png)
 
 ## Description
 
@@ -21,7 +21,7 @@ The Facebook Clone is a web application that replicates the user interface and f
 - HTML
 - CSS
 - JavaScript
-- [Add any additional technologies or libraries you used]
+
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ To explore the Facebook Clone, visit the live website:
 
 ## Contributions
 
-Contributions are welcome! If you want to contribute to this project, please follow our [Contributing Guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you want to contribute to this project.
 
 ## License
 
@@ -40,6 +40,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Author
 
 - **Niladri Chatterjee**
+
 ## Acknowledgments
 
 - Inspired by Facebook.
