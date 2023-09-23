@@ -1,6 +1,8 @@
 # Facebook Clone
 
-![Website Screenshot](https://github.com/niladri-1/Facebook-clone/blob/main/images/Demo.png)
+<div style="float: right; margin: 0 0 20px 20px;">
+  <img src="https://github.com/niladri-1/Facebook-clone/blob/main/images/Demo.png" alt="Website Screenshot" width="300">
+</div>
 
 ## Description
 
@@ -22,7 +24,6 @@ The Facebook Clone is a web application that replicates the user interface and f
 - CSS
 - JavaScript
 
-
 ## Getting Started
 
 To explore the Facebook Clone, visit the live website:
@@ -31,7 +32,7 @@ To explore the Facebook Clone, visit the live website:
 
 ## Contributions
 
-Contributions are welcome! If you want to contribute to this project.
+Contributions are welcome! If you want to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
@@ -44,4 +45,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Inspired by Facebook.
-
