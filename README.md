@@ -1,8 +1,7 @@
 # Facebook Clone
 
-<div style="float: right; margin: 0 0 20px 20px;">
-  <img src="https://github.com/niladri-1/Facebook-clone/blob/main/images/Demo.png" alt="Website Screenshot" width="300">
-</div>
+<img src="https://github.com/niladri-1/Facebook-clone/blob/main/images/Demo.png">
+
 
 ## Description
 
